@@ -1,11 +1,8 @@
 # Elixir
 
-Hackathon project developed in 24 hours on the 13th week of the <Academia de Código_> #47 bootcamp.
+Hackathon project developed in 24 hours on the final week of my fullstack developer bootcamp in <Academia de Código_>
 
-//The idea
+## The Project
 
-Web application with the main goal of facilitating the access of investors to new and interesting products in need of capital investment to grow big.
-
-//Tech && Methodologies
-
-Java, Spring MVC, REST, HTML, CSS, Javascript, jQuery and Bootstrap
+This was a group project for the final challenge of this course. The idea was to develop a web application that facilitates the access of investors to innovative products in need of capital investment.
+We build a RESTful web service in Java and a dynamic UI with Javascript, HTML and CSS.
